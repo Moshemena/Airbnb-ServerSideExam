@@ -3,7 +3,7 @@ Final project in Server Side major (computer science student)
 
 The Final Exam of Server Side course as a CS student.
 
-For the startig point of this project we got a CSV file with a real data from AIRBNB site, the data was extract by Web-Scrapping.
+For the starting point of this project we got a CSV file with real data from the AIRBNB site, the data was extracted by Web-Scrapping.
 
 The Project was developed using:
 
